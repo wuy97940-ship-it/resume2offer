@@ -1,0 +1,4582 @@
+{
+ "version": "0.2.0",
+ "city": "杭州",
+ "updated": "2026-11-27",
+ "source": "同花顺问财（注册地杭州A股）+ 人工策划",
+ "companies": [
+  {
+   "name": "海康威视",
+   "district": "滨江区",
+   "industry": "安防/智能物联",
+   "careers_url": "https://talent.hikvision.com/society/index",
+   "search_tip": "官网招聘系统可直接按「审计/内控/合规」筛选",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "算法",
+    "开发",
+    "测试",
+    "供应链",
+    "质量",
+    "内控",
+    "审计",
+    "合规",
+    "销售",
+    "光学",
+    "AI",
+    "物流"
+   ],
+   "verified": true,
+   "note": "全球安防龙头，A股市值前列"
+  },
+  {
+   "name": "网易(杭州)",
+   "district": "滨江区",
+   "industry": "互联网/游戏/音乐",
+   "careers_url": "https://hr.163.com",
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "算法",
+    "产品",
+    "运营",
+    "游戏",
+    "音乐",
+    "设计",
+    "数据",
+    "市场",
+    "测试"
+   ],
+   "verified": true,
+   "note": "网易杭州园区（网商路），游戏/云音乐/有道等"
+  },
+  {
+   "name": "恒生电子",
+   "district": "滨江区",
+   "industry": "金融IT",
+   "careers_url": "https://campus.hundsun.com",
+   "search_tip": "官网招聘搜「合规」「内审」「数据」",
+   "keywords": [
+    "金融IT",
+    "开发",
+    "测试",
+    "数据",
+    "内审",
+    "合规",
+    "产品",
+    "AI",
+    "大模型",
+    "风控"
+   ],
+   "verified": true,
+   "note": "A股金融IT龙头（600570）",
+   "code": ""
+  },
+  {
+   "name": "大华股份",
+   "district": "滨江区",
+   "industry": "安防/智慧物联",
+   "careers_url": "https://www.dahuatech.com",
+   "search_tip": "官网顶部「加入我们」",
+   "keywords": [
+    "安防",
+    "算法",
+    "嵌入式",
+    "硬件",
+    "开发",
+    "测试",
+    "供应链",
+    "销售",
+    "内控",
+    "质量"
+   ],
+   "verified": true,
+   "note": ""
+  },
+  {
+   "name": "新华三(H3C)",
+   "district": "滨江区",
+   "industry": "网络设备/云计算",
+   "careers_url": "https://career.h3c.com",
+   "search_tip": "",
+   "keywords": [
+    "网络",
+    "开发",
+    "测试",
+    "硬件",
+    "供应链",
+    "销售",
+    "售前",
+    "技术支持",
+    "嵌入式"
+   ],
+   "verified": true,
+   "note": ""
+  },
+  {
+   "name": "宇视科技",
+   "district": "滨江区",
+   "industry": "安防/AIoT",
+   "careers_url": "https://www.uniview.com",
+   "search_tip": "官网顶部「加入我们」进入招聘页",
+   "keywords": [
+    "安防",
+    "算法",
+    "嵌入式",
+    "硬件",
+    "测试",
+    "销售",
+    "供应链",
+    "开发"
+   ],
+   "verified": true,
+   "note": ""
+  },
+  {
+   "name": "安恒信息",
+   "district": "滨江区",
+   "industry": "网络安全",
+   "careers_url": "https://www.dbappsecurity.com.cn",
+   "search_tip": "官网「加入我们」",
+   "keywords": [
+    "网络安全",
+    "渗透测试",
+    "安全服务",
+    "合规",
+    "等保",
+    "开发",
+    "销售",
+    "售前"
+   ],
+   "verified": true,
+   "note": "科创板上市（688023）",
+   "code": ""
+  },
+  {
+   "name": "每日互动(个推)",
+   "district": "滨江区",
+   "industry": "数据智能",
+   "careers_url": "https://www.getui.com",
+   "search_tip": "官网「加入我们」",
+   "keywords": [
+    "开发",
+    "算法",
+    "数据",
+    "产品",
+    "运营",
+    "销售"
+   ],
+   "verified": true,
+   "note": "创业板上市（300766）"
+  },
+  {
+   "name": "中控技术",
+   "district": "滨江区",
+   "industry": "工业自动化",
+   "careers_url": "https://www.supcon.com",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "自动化",
+    "工业软件",
+    "开发",
+    "算法",
+    "仪表",
+    "供应链",
+    "质量",
+    "销售",
+    "嵌入式"
+   ],
+   "verified": true,
+   "note": "科创板688777，流程工业自动化龙头",
+   "code": ""
+  },
+  {
+   "name": "恒逸集团",
+   "district": "萧山区",
+   "industry": "石化化纤/大宗贸易",
+   "careers_url": "https://www.hengyi.com",
+   "search_tip": "官网「人力资源/招聘」栏目",
+   "keywords": [
+    "供应链",
+    "贸易",
+    "石化",
+    "采购",
+    "销售",
+    "期货",
+    "套保",
+    "风控",
+    "物流",
+    "内控",
+    "财务"
+   ],
+   "verified": true,
+   "note": "萧山民营龙头，石化贸易体量大"
+  },
+  {
+   "name": "荣盛控股",
+   "district": "萧山区",
+   "industry": "石化/大宗",
+   "careers_url": null,
+   "search_tip": "搜索「荣盛控股 官网 招聘」，或用下方 BOSS/猎聘按钮搜公司名",
+   "keywords": [
+    "石化",
+    "贸易",
+    "供应链",
+    "采购",
+    "销售",
+    "风控",
+    "财务",
+    "内控",
+    "物流"
+   ],
+   "verified": false,
+   "note": "旗下荣盛石化（002493）"
+  },
+  {
+   "name": "传化集团(含传化智联)",
+   "district": "萧山区",
+   "industry": "化工/物流/供应链",
+   "careers_url": null,
+   "search_tip": "搜索「传化 官网 招聘」，或用下方 BOSS/猎聘按钮搜公司名",
+   "keywords": [
+    "化工",
+    "物流",
+    "供应链",
+    "投资",
+    "财务",
+    "风控",
+    "内控",
+    "采购",
+    "销售",
+    "运营"
+   ],
+   "verified": false,
+   "note": "传化智联（600596）为上市平台"
+  },
+  {
+   "name": "明日控股",
+   "district": "萧山区",
+   "industry": "塑化供应链",
+   "careers_url": null,
+   "search_tip": "搜索「浙江明日控股 官网 招聘」，或用下方 BOSS/猎聘按钮搜公司名",
+   "keywords": [
+    "塑料",
+    "塑化",
+    "供应链",
+    "贸易",
+    "大宗",
+    "风控",
+    "销售",
+    "采购",
+    "期货",
+    "产业链研究"
+   ],
+   "verified": false,
+   "note": "塑化供应链龙头，总部萧山金城路"
+  },
+  {
+   "name": "万向集团",
+   "district": "萧山区",
+   "industry": "汽车零部件/制造",
+   "careers_url": "https://www.wanxiang.com.cn",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "汽车",
+    "零部件",
+    "制造",
+    "财务",
+    "投资",
+    "供应链",
+    "质量",
+    "采购",
+    "开发"
+   ],
+   "verified": true,
+   "note": "萧山老牌民营巨头"
+  },
+  {
+   "name": "微医集团",
+   "district": "萧山区",
+   "industry": "互联网医疗",
+   "careers_url": "https://www.guahao.com",
+   "search_tip": "官网底部「加入我们」",
+   "keywords": [
+    "互联网医疗",
+    "开发",
+    "产品",
+    "运营",
+    "算法",
+    "合规",
+    "医保",
+    "销售"
+   ],
+   "verified": true,
+   "note": "信息港小镇独角兽"
+  },
+  {
+   "name": "阿里巴巴",
+   "district": "余杭区",
+   "industry": "互联网/电商/云",
+   "careers_url": "https://talent.alibaba.com",
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "算法",
+    "产品",
+    "运营",
+    "供应链",
+    "物流",
+    "数据",
+    "设计",
+    "市场",
+    "合规",
+    "风控"
+   ],
+   "verified": true,
+   "note": "未来科技城/西溪园区"
+  },
+  {
+   "name": "蚂蚁集团",
+   "district": "西湖区",
+   "industry": "金融科技",
+   "careers_url": "https://talent.antgroup.com",
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "算法",
+    "产品",
+    "风控",
+    "合规",
+    "运营",
+    "数据",
+    "设计",
+    "金融",
+    "内控"
+   ],
+   "verified": true,
+   "note": ""
+  },
+  {
+   "name": "同花顺",
+   "district": "余杭区",
+   "industry": "金融数据/AI",
+   "careers_url": "https://hr.myhexin.com",
+   "search_tip": "若打不开请从官网 10jqka.com.cn 底部「招聘」进入",
+   "keywords": [
+    "金融数据",
+    "开发",
+    "算法",
+    "AI",
+    "产品",
+    "运营",
+    "销售",
+    "数据",
+    "投研"
+   ],
+   "verified": true,
+   "note": "创业板上市（300033），总部五常"
+  },
+  {
+   "name": "之江实验室",
+   "district": "余杭区",
+   "industry": "科研机构/智能计算",
+   "careers_url": "https://www.zhejianglab.org",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "算法",
+    "研究",
+    "大数据",
+    "智能计算",
+    "AI",
+    "开发"
+   ],
+   "verified": true,
+   "note": "混合所有制新型研发机构"
+  },
+  {
+   "name": "涂鸦智能",
+   "district": "西湖区",
+   "industry": "IoT平台",
+   "careers_url": "https://www.tuya.com",
+   "search_tip": "官网底部「加入我们」",
+   "keywords": [
+    "IoT",
+    "开发",
+    "算法",
+    "产品",
+    "运营",
+    "供应链",
+    "海外",
+    "设计"
+   ],
+   "verified": true,
+   "note": "美股+港股上市"
+  },
+  {
+   "name": "邦盛科技",
+   "district": "西湖区",
+   "industry": "实时风控/大数据",
+   "careers_url": null,
+   "search_tip": "搜索「邦盛科技 官网 招聘」，或用下方按钮搜公司名",
+   "keywords": [
+    "大数据风控",
+    "实时风控",
+    "反欺诈",
+    "开发",
+    "算法",
+    "售前",
+    "销售",
+    "金融"
+   ],
+   "verified": false,
+   "note": "天堂软件园"
+  },
+  {
+   "name": "物产中大",
+   "district": "拱墅区",
+   "industry": "大宗供应链",
+   "careers_url": null,
+   "search_tip": "搜索「物产中大 官网 招聘」，集团旗下各子公司（物产道富/物产中大金属等）常年招风控尽调岗",
+   "keywords": [
+    "大宗",
+    "供应链",
+    "贸易",
+    "风控",
+    "尽调",
+    "内控",
+    "物流",
+    "金融",
+    "投资",
+    "期货",
+    "审计"
+   ],
+   "verified": false,
+   "note": "世界500强省属国企（600704），总部环城西路56号；旗下物产道富/物产中大金属常年招风控尽调岗",
+   "code": ""
+  },
+  {
+   "name": "杭州热联集团",
+   "district": "拱墅区",
+   "industry": "钢铁大宗贸易",
+   "careers_url": null,
+   "search_tip": "搜索「杭州热联 招聘」，IPO排队中，风控条线扩张期",
+   "keywords": [
+    "钢铁",
+    "大宗",
+    "贸易",
+    "供应链",
+    "风控",
+    "销售",
+    "物流",
+    "期货",
+    "内控",
+    "尽调"
+   ],
+   "verified": false,
+   "note": "年营收2700亿+，杭实集团旗下"
+  },
+  {
+   "name": "永安期货",
+   "district": "上城区",
+   "industry": "期货",
+   "careers_url": "https://www.yafco.com",
+   "search_tip": "官网「人才招聘」栏目",
+   "keywords": [
+    "期货",
+    "风控",
+    "合规",
+    "投研",
+    "交易",
+    "营业部",
+    "金融",
+    "套保",
+    "点价",
+    "保证金"
+   ],
+   "verified": true,
+   "note": "A+H上市期货公司（600927），总部钱江新城",
+   "code": ""
+  },
+  {
+   "name": "南华期货",
+   "district": "上城区",
+   "industry": "期货",
+   "careers_url": "https://www.nanhua.net",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "期货",
+    "风控",
+    "合规",
+    "投研",
+    "交易",
+    "国际业务",
+    "金融",
+    "套保"
+   ],
+   "verified": true,
+   "note": "A+H上市（603093），首家A股期货公司",
+   "code": ""
+  },
+  {
+   "name": "财通证券",
+   "district": "西湖区",
+   "industry": "证券",
+   "careers_url": "https://www.ctsec.com",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "券商",
+    "投行",
+    "研究",
+    "合规",
+    "风控",
+    "IT",
+    "财富管理",
+    "审计",
+    "内控"
+   ],
+   "verified": true,
+   "note": "省属国企券商（601108），注册地西湖区",
+   "code": ""
+  },
+  {
+   "name": "浙商证券",
+   "district": "上城区",
+   "industry": "证券",
+   "careers_url": "https://www.stocke.com.cn",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "券商",
+    "投行",
+    "研究",
+    "合规",
+    "风控",
+    "IT",
+    "财富管理",
+    "内控"
+   ],
+   "verified": true,
+   "note": "",
+   "code": ""
+  },
+  {
+   "name": "杭州银行",
+   "district": "上城区",
+   "industry": "银行",
+   "careers_url": "https://www.hzbank.com.cn",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "银行",
+    "信贷",
+    "风控",
+    "合规",
+    "IT",
+    "运营",
+    "客户经理",
+    "审计"
+   ],
+   "verified": true,
+   "note": "A股上市（600926）",
+   "code": ""
+  },
+  {
+   "name": "浙商银行",
+   "district": "萧山区",
+   "industry": "银行",
+   "careers_url": "https://www.czbank.com",
+   "search_tip": "官网「人才招聘」",
+   "keywords": [
+    "银行",
+    "信贷",
+    "风控",
+    "合规",
+    "IT",
+    "运营",
+    "客户经理",
+    "供应链金融"
+   ],
+   "verified": true,
+   "note": "A+H上市（601916），注册地萧山鸿宁路",
+   "code": ""
+  },
+  {
+   "name": "老板电器",
+   "district": "临平区",
+   "industry": "厨电制造",
+   "careers_url": "https://www.robam.com",
+   "search_tip": "官网「加入我们」",
+   "keywords": [
+    "制造",
+    "质量",
+    "供应链",
+    "销售",
+    "电商",
+    "财务",
+    "内控",
+    "开发",
+    "工艺"
+   ],
+   "verified": true,
+   "note": "A股上市（002508）",
+   "code": ""
+  },
+  {
+   "name": "华数传媒",
+   "district": "滨江区",
+   "industry": "传媒/电视广播",
+   "careers_url": "https://www.wasu.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "内容",
+    "运营",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "英特集团",
+   "district": "拱墅区",
+   "industry": "医药生物/医药流通",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万向钱潮",
+   "district": "萧山区",
+   "industry": "汽车/底盘与发动机",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华媒控股",
+   "district": "拱墅区",
+   "industry": "传媒/广告媒体",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "运营",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙商中拓",
+   "district": "萧山区",
+   "industry": "交通运输/供应链服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "大宗",
+    "贸易",
+    "风控",
+    "物流",
+    "运营",
+    "调度"
+   ],
+   "verified": false,
+   "note": "大宗供应链（000906），注册地萧山",
+   "code": ""
+  },
+  {
+   "name": "顺发恒能",
+   "district": "萧山区",
+   "industry": "公用事业/电能服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "亿帆医药",
+   "district": "临安区",
+   "industry": "医药生物/化学制剂",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "众合科技",
+   "district": "滨江区",
+   "industry": "机械设备/轨交设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华东医药",
+   "district": "拱墅区",
+   "industry": "医药生物/化学制剂",
+   "careers_url": null,
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "医药工业+医美（000963）",
+   "code": ""
+  },
+  {
+   "name": "传化智联",
+   "district": "萧山区",
+   "industry": "交通运输/公路货运",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "物流",
+    "运营",
+    "调度",
+    "风控"
+   ],
+   "verified": false,
+   "note": "传化集团物流平台（002010）",
+   "code": ""
+  },
+  {
+   "name": "生意宝",
+   "district": "滨江区",
+   "industry": "传媒/门户网站",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "运营",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "东南网架",
+   "district": "萧山区",
+   "industry": "建筑装饰/钢结构",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "广宇集团",
+   "district": "上城区",
+   "industry": "房地产/住宅开发",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "成本",
+    "招采",
+    "营销",
+    "物业"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "三维通信",
+   "district": "滨江区",
+   "industry": "通信/通信工程",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "大立科技",
+   "district": "滨江区",
+   "industry": "国防军工/军工电子",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电子",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "研发"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "滨江集团",
+   "district": "上城区",
+   "industry": "房地产/住宅开发",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "成本",
+    "招采",
+    "营销",
+    "物业"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙富控股",
+   "district": "桐庐县",
+   "industry": "环保/固废治理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万马股份",
+   "district": "临安区",
+   "industry": "电力设备/线缆",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "亚太股份",
+   "district": "萧山区",
+   "industry": "汽车/底盘与发动机",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "中恒电气",
+   "district": "滨江区",
+   "industry": "电力设备/电源设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "康盛股份",
+   "district": "淳安县",
+   "industry": "家用电器/家电零部件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "结构",
+    "电子",
+    "质量",
+    "电商",
+    "供应链"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭氧股份",
+   "district": "临安区",
+   "industry": "机械设备/空分设备",
+   "careers_url": "https://www.hangyang.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "巨星科技",
+   "district": "上城区",
+   "industry": "机械设备/工具五金",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "富春环保",
+   "district": "富阳区",
+   "industry": "公用事业/热力服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "金固股份",
+   "district": "富阳区",
+   "industry": "汽车/轮胎轮毂",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "荣盛石化",
+   "district": "萧山区",
+   "industry": "石油石化/炼化",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化工",
+    "贸易",
+    "供应链",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "西子洁能",
+   "district": "上城区",
+   "industry": "电力设备/锅炉",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "宝鼎科技",
+   "district": "临平区",
+   "industry": "电子/铸锻件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "贝因美",
+   "district": "滨江区",
+   "industry": "食品饮料/乳品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "质量",
+    "研发",
+    "销售",
+    "渠道"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "赞宇科技",
+   "district": "上城区",
+   "industry": "基础化工/日化",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "思美传媒",
+   "district": "上城区",
+   "industry": "传媒/营销代理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "运营",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙江建投",
+   "district": "西湖区",
+   "industry": "建筑装饰/房屋建设",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "微光股份",
+   "district": "临平区",
+   "industry": "电力设备/电机",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "先锋电子",
+   "district": "滨江区",
+   "industry": "机械设备/仪器仪表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "顺网科技",
+   "district": "西湖区",
+   "industry": "传媒/游戏",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "游戏",
+    "策划",
+    "美术",
+    "运营",
+    "内容",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华策影视",
+   "district": "西湖区",
+   "industry": "传媒/影视",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "制片",
+    "宣传",
+    "商务",
+    "运营",
+    "编辑",
+    "视频"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "宋城演艺",
+   "district": "西湖区",
+   "industry": "社会服务/景区演艺",
+   "careers_url": "https://www.songcn.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "演出",
+    "运营",
+    "舞台",
+    "服务",
+    "培训",
+    "管理"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "南方泵业",
+   "district": "余杭区",
+   "industry": "机械设备/泵",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "聚光科技",
+   "district": "滨江区",
+   "industry": "环保/环保设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "迪安诊断",
+   "district": "西湖区",
+   "industry": "医药生物/诊断服务",
+   "careers_url": null,
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "检验",
+    "医学",
+    "销售",
+    "医药",
+    "研发",
+    "质量",
+    "注册"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "初灵信息",
+   "district": "滨江区",
+   "industry": "计算机/IT服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "兴源环境",
+   "district": "临平区",
+   "industry": "环保/水务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "中威电子",
+   "district": "滨江区",
+   "industry": "计算机/安防设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "安防",
+    "算法",
+    "嵌入式",
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "远方信息",
+   "district": "滨江区",
+   "industry": "机械设备/仪器仪表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "泰格医药",
+   "district": "滨江区",
+   "industry": "医药生物/临床CRO",
+   "careers_url": "https://www.tigermed.net",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "临床",
+    "CRA",
+    "医药",
+    "数据",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": true,
+   "note": "临床CRO龙头（300347）",
+   "code": ""
+  },
+  {
+   "name": "炬华科技",
+   "district": "余杭区",
+   "industry": "电力设备/电工仪表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "中泰股份",
+   "district": "富阳区",
+   "industry": "机械设备/换热设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "创业慧康",
+   "district": "滨江区",
+   "industry": "计算机/医疗IT",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医疗",
+    "开发",
+    "实施",
+    "销售",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭州高新",
+   "district": "余杭区",
+   "industry": "基础化工/改性塑料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "中亚股份",
+   "district": "拱墅区",
+   "industry": "机械设备/包装机械",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙能电力",
+   "district": "西湖区",
+   "industry": "公用事业/火电",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "锅炉",
+    "结构",
+    "工艺",
+    "质量",
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭钢股份",
+   "district": "拱墅区",
+   "industry": "钢铁/钢铁",
+   "careers_url": "https://www.hzsteel.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "钢铁",
+    "工艺",
+    "质量",
+    "贸易",
+    "销售"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙江东方",
+   "district": "上城区",
+   "industry": "非银金融/金控",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "投研",
+    "合规",
+    "风控",
+    "交易",
+    "金融"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "钱江水利",
+   "district": "西湖区",
+   "industry": "环保/水务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "士兰微",
+   "district": "西湖区",
+   "industry": "电子/半导体",
+   "careers_url": "https://www.silan.com.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "芯片",
+    "工艺",
+    "质量",
+    "设备",
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭萧钢构",
+   "district": "萧山区",
+   "industry": "建筑装饰/钢结构",
+   "careers_url": "https://www.hxsgg.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "祥源文旅",
+   "district": "拱墅区",
+   "industry": "社会服务/景区",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "服务",
+    "培训",
+    "管理"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "信雅达",
+   "district": "滨江区",
+   "industry": "计算机/金融IT",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "金融",
+    "开发",
+    "测试",
+    "数据",
+    "产品",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "新安股份",
+   "district": "建德市",
+   "industry": "基础化工/农化",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙数文化",
+   "district": "拱墅区",
+   "industry": "传媒/游戏",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "游戏",
+    "策划",
+    "美术",
+    "运营",
+    "内容",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "天目药业",
+   "district": "临安区",
+   "industry": "医药生物/中药",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "通策医疗",
+   "district": "上城区",
+   "industry": "医药生物/医院",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医生",
+    "护士",
+    "医务",
+    "运营",
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "东方通信",
+   "district": "滨江区",
+   "industry": "通信/通信设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙大网新",
+   "district": "西湖区",
+   "industry": "计算机/IT服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭州解百",
+   "district": "上城区",
+   "industry": "商贸零售/百货",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "招商",
+    "运营",
+    "企划",
+    "门店",
+    "采购"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙文互联",
+   "district": "临安区",
+   "industry": "传媒/营销代理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "运营",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "百大集团",
+   "district": "拱墅区",
+   "industry": "商贸零售/百货",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "招商",
+    "运营",
+    "企划",
+    "门店",
+    "采购"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "航民股份",
+   "district": "萧山区",
+   "industry": "纺织服饰/印染",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭齿前进",
+   "district": "萧山区",
+   "industry": "机械设备/齿轮",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙文影业",
+   "district": "上城区",
+   "industry": "纺织服饰/影视",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "内容",
+    "制片",
+    "宣传",
+    "商务",
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "海南华铁",
+   "district": "上城区",
+   "industry": "非银金融/租赁",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "投研",
+    "合规",
+    "风控",
+    "交易",
+    "金融"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "健盛集团",
+   "district": "萧山区",
+   "industry": "纺织服饰/袜业",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭电股份",
+   "district": "钱塘区",
+   "industry": "电力设备/线缆",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "福斯特",
+   "district": "临安区",
+   "industry": "电力设备/光伏材料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "永创智能",
+   "district": "西湖区",
+   "industry": "机械设备/包装机械",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "顾家家居",
+   "district": "钱塘区",
+   "industry": "轻工制造/家居",
+   "careers_url": "https://www.kuka.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "和仁科技",
+   "district": "滨江区",
+   "industry": "计算机/医疗IT",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医疗",
+    "开发",
+    "实施",
+    "销售",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "集智股份",
+   "district": "西湖区",
+   "industry": "机械设备/动平衡机",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "电魂网络",
+   "district": "滨江区",
+   "industry": "传媒/游戏",
+   "careers_url": "https://www.dianhun.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "游戏",
+    "策划",
+    "美术",
+    "运营",
+    "内容",
+    "编辑",
+    "视频",
+    "商务"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "贝达药业",
+   "district": "临平区",
+   "industry": "医药生物/创新药",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "海兴电力",
+   "district": "拱墅区",
+   "industry": "电力设备/电工仪表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "平治信息",
+   "district": "上城区",
+   "industry": "通信/增值服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "百合花",
+   "district": "钱塘区",
+   "industry": "基础化工/颜料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭叉集团",
+   "district": "临安区",
+   "industry": "机械设备/叉车",
+   "careers_url": "https://www.hc.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "海外销售",
+    "工艺",
+    "电气",
+    "销售"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "英飞特",
+   "district": "滨江区",
+   "industry": "电子/LED驱动",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华正新材",
+   "district": "余杭区",
+   "industry": "电子/覆铜板",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "新坐标",
+   "district": "余杭区",
+   "industry": "汽车/精锻件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "威星智能",
+   "district": "拱墅区",
+   "industry": "机械设备/燃气计量",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "诺邦股份",
+   "district": "临平区",
+   "industry": "纺织服饰/无纺布",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "星帅尔",
+   "district": "富阳区",
+   "industry": "家用电器/家电零部件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "结构",
+    "电子",
+    "质量",
+    "电商",
+    "供应链"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "长川科技",
+   "district": "滨江区",
+   "industry": "电子/半导体设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "半导体",
+    "设备",
+    "机械",
+    "电气",
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "正元智慧",
+   "district": "余杭区",
+   "industry": "计算机/校园信息化",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "金石资源",
+   "district": "拱墅区",
+   "industry": "基础化工/氟化工",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万通智控",
+   "district": "临平区",
+   "industry": "汽车/胎压监测",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭州园林",
+   "district": "余杭区",
+   "industry": "建筑装饰/园林工程",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "铁流股份",
+   "district": "临平区",
+   "industry": "汽车/离合器",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "雷迪克",
+   "district": "萧山区",
+   "industry": "汽车/轴承",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "吉华集团",
+   "district": "钱塘区",
+   "industry": "基础化工/染料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "诚邦股份",
+   "district": "上城区",
+   "industry": "建筑装饰/园林工程",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "沪宁股份",
+   "district": "余杭区",
+   "industry": "机械设备/电梯部件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "纵横通信",
+   "district": "滨江区",
+   "industry": "通信/通信服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "春风动力",
+   "district": "临平区",
+   "industry": "汽车/全地形车",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "兆丰股份",
+   "district": "萧山区",
+   "industry": "汽车/轮毂轴承",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万马科技",
+   "district": "临安区",
+   "industry": "通信/通信设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "银都股份",
+   "district": "临平区",
+   "industry": "机械设备/商用餐饮设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万隆光电",
+   "district": "萧山区",
+   "industry": "通信/通信设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "泰瑞机器",
+   "district": "钱塘区",
+   "industry": "机械设备/注塑机",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "珀莱雅",
+   "district": "西湖区",
+   "industry": "美容护理/化妆品",
+   "careers_url": "https://www.proya.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "品牌",
+    "电商",
+    "运营",
+    "研发",
+    "质量"
+   ],
+   "verified": true,
+   "note": "国产化妆品龙头（603605）",
+   "code": ""
+  },
+  {
+   "name": "南都物业",
+   "district": "西湖区",
+   "industry": "房地产/物业",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "物业",
+    "管家",
+    "工程",
+    "成本",
+    "招采",
+    "营销"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "天地数码",
+   "district": "临平区",
+   "industry": "计算机/热转印",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "汉嘉数智",
+   "district": "拱墅区",
+   "industry": "建筑装饰/建筑设计",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "每日互动",
+   "district": "西湖区",
+   "industry": "计算机/数据智能",
+   "careers_url": "https://www.getui.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": true,
+   "note": "个推，创业板300766",
+   "code": ""
+  },
+  {
+   "name": "迪普科技",
+   "district": "滨江区",
+   "industry": "计算机/网络安全",
+   "careers_url": "https://www.dptech.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "安全",
+    "渗透",
+    "等保",
+    "合规",
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "运达股份",
+   "district": "临平区",
+   "industry": "电力设备/风电",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "风电",
+    "结构",
+    "质量",
+    "工程",
+    "电气",
+    "硬件",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "新化股份",
+   "district": "建德市",
+   "industry": "基础化工/精细化工",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "大胜达",
+   "district": "萧山区",
+   "industry": "轻工制造/纸包装",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭可科技",
+   "district": "萧山区",
+   "industry": "电力设备/锂电设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "锂电",
+    "机械",
+    "电气",
+    "调试",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "虹软科技",
+   "district": "滨江区",
+   "industry": "计算机/视觉算法",
+   "careers_url": "https://www.arcsoft.com.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "算法",
+    "CV",
+    "AI",
+    "嵌入式",
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "运维",
+    "售前"
+   ],
+   "verified": true,
+   "note": "科创板688088，手机视觉AI算法龙头",
+   "code": ""
+  },
+  {
+   "name": "壹网壹创",
+   "district": "钱塘区",
+   "industry": "商贸零售/电商服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电商",
+    "运营",
+    "投放",
+    "客服",
+    "门店",
+    "采购",
+    "招商"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "米奥会展",
+   "district": "钱塘区",
+   "industry": "社会服务/会展",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "服务",
+    "培训",
+    "管理"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "鸿泉技术",
+   "district": "滨江区",
+   "industry": "计算机/车联网",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "当虹科技",
+   "district": "滨江区",
+   "industry": "计算机/视频技术",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "奥普科技",
+   "district": "钱塘区",
+   "industry": "家用电器/浴霸",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "结构",
+    "电子",
+    "质量",
+    "电商",
+    "供应链"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "泰林生物",
+   "district": "滨江区",
+   "industry": "机械设备/微生物检测",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "建业股份",
+   "district": "建德市",
+   "industry": "基础化工/精细化工",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "光云科技",
+   "district": "滨江区",
+   "industry": "计算机/电商SaaS",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电商",
+    "SaaS",
+    "开发",
+    "运营",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "聚合顺",
+   "district": "钱塘区",
+   "industry": "基础化工/尼龙",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "申昊科技",
+   "district": "余杭区",
+   "industry": "电力设备/电力巡检",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华达新材",
+   "district": "富阳区",
+   "industry": "有色金属/金属材料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "冶炼",
+    "工艺",
+    "质量",
+    "贸易",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "众望布艺",
+   "district": "临平区",
+   "industry": "纺织服饰/家纺",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "格林达",
+   "district": "钱塘区",
+   "industry": "电子/电子化学品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华光新材",
+   "district": "余杭区",
+   "industry": "机械设备/钎焊材料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "豪悦护理",
+   "district": "临平区",
+   "industry": "美容护理/卫生用品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "研发",
+    "质量",
+    "电商",
+    "运营",
+    "品牌"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "立昂微",
+   "district": "钱塘区",
+   "industry": "电子/半导体",
+   "careers_url": "https://www.sjsemi.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "芯片",
+    "工艺",
+    "质量",
+    "设备",
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "山科智能",
+   "district": "滨江区",
+   "industry": "机械设备/水表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "大洋生物",
+   "district": "建德市",
+   "industry": "基础化工/原料药",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭华股份",
+   "district": "钱塘区",
+   "industry": "基础化工/油墨",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华旺科技",
+   "district": "临安区",
+   "industry": "轻工制造/特种纸",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "祖名股份",
+   "district": "滨江区",
+   "industry": "农林牧渔/豆制品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "食品",
+    "质量",
+    "研发",
+    "生产"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "屹通新材",
+   "district": "建德市",
+   "industry": "有色金属/粉末冶金",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "冶炼",
+    "工艺",
+    "质量",
+    "贸易",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "园林股份",
+   "district": "上城区",
+   "industry": "建筑装饰/园林工程",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "曼卡龙",
+   "district": "萧山区",
+   "industry": "纺织服饰/珠宝",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "联德股份",
+   "district": "钱塘区",
+   "industry": "机械设备/精密铸件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "美迪凯",
+   "district": "钱塘区",
+   "industry": "电子/光学元件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "西力科技",
+   "district": "西湖区",
+   "industry": "电力设备/智能电表",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "爱科科技",
+   "district": "滨江区",
+   "industry": "机械设备/智能装备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "奥泰生物",
+   "district": "钱塘区",
+   "industry": "医药生物/体外诊断",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "IVD",
+    "研发",
+    "注册",
+    "销售",
+    "医药",
+    "质量"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "品茗科技",
+   "district": "西湖区",
+   "industry": "计算机/建筑软件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杭州柯林",
+   "district": "余杭区",
+   "industry": "电力设备/电网监测",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙江新能",
+   "district": "上城区",
+   "industry": "公用事业/新能源",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "可靠股份",
+   "district": "临安区",
+   "industry": "美容护理/卫生用品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "研发",
+    "质量",
+    "电商",
+    "运营",
+    "品牌"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "税友股份",
+   "district": "滨江区",
+   "industry": "计算机/财税软件",
+   "careers_url": "https://www.servyou.com.cn",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "财税",
+    "开发",
+    "实施",
+    "销售",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": true,
+   "note": "财税信息化龙头（603171）",
+   "code": ""
+  },
+  {
+   "name": "杭州热电",
+   "district": "滨江区",
+   "industry": "公用事业/热电",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "咸亨国际",
+   "district": "上城区",
+   "industry": "机械设备/应急装备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "浙版传媒",
+   "district": "拱墅区",
+   "industry": "传媒/出版",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "编辑",
+    "内容",
+    "营销",
+    "运营",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "宏华数科",
+   "district": "滨江区",
+   "industry": "机械设备/数码印花",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "久祺股份",
+   "district": "上城区",
+   "industry": "汽车/自行车",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "双枪科技",
+   "district": "余杭区",
+   "industry": "轻工制造/筷子",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "果麦文化",
+   "district": "西湖区",
+   "industry": "传媒/出版",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "编辑",
+    "内容",
+    "营销",
+    "运营",
+    "视频",
+    "商务"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "张小泉",
+   "district": "富阳区",
+   "industry": "轻工制造/刀剪",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "博拓生物",
+   "district": "余杭区",
+   "industry": "医药生物/体外诊断",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "IVD",
+    "研发",
+    "注册",
+    "销售",
+    "医药",
+    "质量"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "卓锦股份",
+   "district": "拱墅区",
+   "industry": "环保/环境治理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "万事利",
+   "district": "上城区",
+   "industry": "纺织服饰/丝绸",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "大地海洋",
+   "district": "余杭区",
+   "industry": "环保/固废",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "君亭酒店",
+   "district": "西湖区",
+   "industry": "社会服务/酒店",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "酒店",
+    "运营",
+    "服务",
+    "培训",
+    "管理"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "星华新材",
+   "district": "余杭区",
+   "industry": "基础化工/反光材料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "凯尔达",
+   "district": "萧山区",
+   "industry": "机械设备/焊接机器人",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "福莱蒽特",
+   "district": "萧山区",
+   "industry": "基础化工/分散染料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "争光股份",
+   "district": "临平区",
+   "industry": "基础化工/离子交换树脂",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "安旭生物",
+   "district": "拱墅区",
+   "industry": "医药生物/体外诊断",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "IVD",
+    "研发",
+    "注册",
+    "销售",
+    "医药",
+    "质量"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "正强股份",
+   "district": "萧山区",
+   "industry": "汽车/零部件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "百诚医药",
+   "district": "临平区",
+   "industry": "医药生物/CRO",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "临床",
+    "CRA",
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "物产环能",
+   "district": "上城区",
+   "industry": "公用事业/煤炭流通",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "煤炭",
+    "贸易",
+    "风控",
+    "物流",
+    "运行",
+    "检修",
+    "电气",
+    "安全",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "禾迈股份",
+   "district": "拱墅区",
+   "industry": "电力设备/逆变器",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "光伏",
+    "电力电子",
+    "硬件",
+    "结构",
+    "电气",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "ST臻镭",
+   "district": "西湖区",
+   "industry": "电子/射频芯片",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "射频",
+    "芯片",
+    "微波",
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华是科技",
+   "district": "余杭区",
+   "industry": "计算机/IT服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "和顺科技",
+   "district": "余杭区",
+   "industry": "基础化工/薄膜",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "景业智能",
+   "district": "滨江区",
+   "industry": "机械设备/核工业机器人",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "铖昌科技",
+   "district": "西湖区",
+   "industry": "国防军工/相控阵芯片",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电子",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "研发"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "楚环科技",
+   "district": "拱墅区",
+   "industry": "环保/废气治理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "晶华微",
+   "district": "滨江区",
+   "industry": "电子/芯片设计",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "芯片",
+    "IC",
+    "验证",
+    "开发",
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "广立微",
+   "district": "滨江区",
+   "industry": "计算机/EDA软件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "EDA",
+    "算法",
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "慧博云通",
+   "district": "余杭区",
+   "industry": "计算机/IT服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "天元宠物",
+   "district": "临平区",
+   "industry": "轻工制造/宠物用品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "杰华特",
+   "district": "西湖区",
+   "industry": "电子/电源芯片",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "萤石网络",
+   "district": "滨江区",
+   "industry": "计算机/智能家居",
+   "careers_url": "https://www.ys7.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "IoT",
+    "硬件",
+    "开发",
+    "供应链",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": true,
+   "note": "海康威视子公司，科创板688475",
+   "code": ""
+  },
+  {
+   "name": "福斯达",
+   "district": "临平区",
+   "industry": "机械设备/空分设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "和泰机电",
+   "district": "萧山区",
+   "industry": "机械设备/输送设备",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华塑科技",
+   "district": "拱墅区",
+   "industry": "电力设备/BMS",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "国泰环保",
+   "district": "萧山区",
+   "industry": "环保/污泥处理",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "工艺",
+    "项目",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "经纬股份",
+   "district": "余杭区",
+   "industry": "建筑装饰/电力设计",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "工程",
+    "项目",
+    "造价",
+    "施工",
+    "投标"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "安杰思",
+   "district": "临平区",
+   "industry": "医药生物/内镜耗材",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "双元科技",
+   "district": "拱墅区",
+   "industry": "机械设备/锂电检测",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "民生健康",
+   "district": "临平区",
+   "industry": "医药生物/保健品",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "热威股份",
+   "district": "滨江区",
+   "industry": "家用电器/电热元件",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "结构",
+    "电子",
+    "质量",
+    "电商",
+    "供应链"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "安邦护卫",
+   "district": "西湖区",
+   "industry": "社会服务/安保",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "运营",
+    "服务",
+    "培训",
+    "管理"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "鼎龙科技",
+   "district": "钱塘区",
+   "industry": "基础化工/染料中间体",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "艾罗能源",
+   "district": "桐庐县",
+   "industry": "电力设备/储能",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "储能",
+    "电池",
+    "结构",
+    "海外销售",
+    "电气",
+    "硬件",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "托普云农",
+   "district": "拱墅区",
+   "industry": "计算机/智慧农业",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "农业",
+    "算法",
+    "硬件",
+    "IoT",
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "联芸科技",
+   "district": "滨江区",
+   "industry": "电子/存储主控",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "芯片",
+    "固件",
+    "验证",
+    "硬件",
+    "嵌入式",
+    "质量",
+    "工艺",
+    "开发",
+    "测试"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "思看科技",
+   "district": "余杭区",
+   "industry": "机械设备/3D扫描",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "算法",
+    "光学",
+    "嵌入式",
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "永杰新材",
+   "district": "钱塘区",
+   "industry": "有色金属/铝板带",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "冶炼",
+    "工艺",
+    "质量",
+    "贸易",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "信凯科技",
+   "district": "余杭区",
+   "industry": "基础化工/颜料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "中策橡胶",
+   "district": "钱塘区",
+   "industry": "汽车/轮胎",
+   "careers_url": "https://www.zc-rubber.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "轮胎",
+    "工艺",
+    "质量",
+    "销售",
+    "机械",
+    "结构",
+    "采购"
+   ],
+   "verified": true,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "立方控股",
+   "district": "西湖区",
+   "industry": "计算机/智慧停车",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "美登科技",
+   "district": "西湖区",
+   "industry": "计算机/电商SaaS",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电商",
+    "SaaS",
+    "开发",
+    "运营",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "利尔达",
+   "district": "余杭区",
+   "industry": "通信/物联网模组",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "嵌入式",
+    "硬件",
+    "IoT",
+    "FAE",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "天铭科技",
+   "district": "富阳区",
+   "industry": "汽车/绞盘",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "质量",
+    "工艺",
+    "采购",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "朗鸿科技",
+   "district": "富阳区",
+   "industry": "机械设备/防盗展示",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "广脉科技",
+   "district": "滨江区",
+   "industry": "通信/通信服务",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "硬件",
+    "嵌入式",
+    "开发",
+    "测试",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "凯大催化",
+   "district": "拱墅区",
+   "industry": "基础化工/催化剂",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "易思维",
+   "district": "滨江区",
+   "industry": "机械设备/视觉检测",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "机械",
+    "结构",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "觅睿科技",
+   "district": "滨江区",
+   "industry": "计算机/智能摄像头",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "开发",
+    "测试",
+    "产品",
+    "数据",
+    "算法",
+    "运维",
+    "售前"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "普昂医疗",
+   "district": "余杭区",
+   "industry": "医药生物/医疗耗材",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "医药",
+    "研发",
+    "质量",
+    "注册",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "福恩股份",
+   "district": "萧山区",
+   "industry": "纺织服饰/面料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "生产",
+    "质量",
+    "电商",
+    "外贸"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "高特电子",
+   "district": "余杭区",
+   "industry": "电力设备/BMS",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "电气",
+    "硬件",
+    "结构",
+    "质量",
+    "销售",
+    "工程"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "欧伦电气",
+   "district": "临平区",
+   "industry": "家用电器/小家电",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "结构",
+    "电子",
+    "质量",
+    "电商",
+    "供应链"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "宇树科技",
+   "district": "滨江区",
+   "industry": "机械设备/机器人",
+   "careers_url": "https://www.unitree.com",
+   "search_tip": "官网招聘入口在首页「人才招聘/加入我们」栏目",
+   "keywords": [
+    "机器人",
+    "算法",
+    "电机",
+    "结构",
+    "机械",
+    "工艺",
+    "质量",
+    "电气",
+    "销售"
+   ],
+   "verified": true,
+   "note": "人形机器人头部公司（688836），2026年科创板上市",
+   "code": ""
+  },
+  {
+   "name": "格林生物",
+   "district": "建德市",
+   "industry": "基础化工/香料",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "化学",
+    "工艺",
+    "质量",
+    "研发",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  },
+  {
+   "name": "华大海天",
+   "district": "桐庐县",
+   "industry": "轻工制造/特种纸",
+   "careers_url": null,
+   "search_tip": "",
+   "keywords": [
+    "设计",
+    "质量",
+    "生产",
+    "电商",
+    "销售"
+   ],
+   "verified": false,
+   "note": "A股上市公司",
+   "code": ""
+  }
+ ]
+}

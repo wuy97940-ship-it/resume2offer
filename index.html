@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>resume2offer · 简历到官网投递，一站直达</title>
+  <meta name="description" content="上传粗略简历，问几个问题，生成结构化简历 + 推荐公司清单，落脚点永远是官网投递入口。开源、纯前端、数据不出本地。">
+  <link rel="stylesheet" href="style.css?v=0.1.3">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand">
+        <span class="logo">投</span>
+        <div>
+          <b>resume2offer</b>
+          <small>简历到官网投递，一站直达</small>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button type="button" class="btn ghost sm" id="open-settings">AI 设置</button>
+        <a class="btn ghost sm" href="https://github.com/wuy97940-ship-it/resume2offer" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="load-error" class="load-error" hidden></div>
+
+    <nav id="steps-bar" class="steps-bar">
+      <span class="step-dot" data-s="1">1 选方向</span>
+      <span class="sep">›</span>
+      <span class="step-dot" data-s="2">2 填简历</span>
+      <span class="sep">›</span>
+      <span class="step-dot" data-s="3">3 看结果</span>
+    </nav>
+
+    <!-- Step 1 -->
+    <section id="step1" class="step-section" hidden>
+      <h2>你想投哪里？</h2>
+      <div class="field">
+        <label for="city-select">城市</label>
+        <select id="city-select"></select>
+        <p class="hint">v1 深耕杭州；数据库结构已预留多城市扩展，欢迎 PR。</p>
+      </div>
+      <div class="field">
+        <label>优先区域（可多选，不选=不限）</label>
+        <div id="district-chips" class="chips"></div>
+      </div>
+      <div class="field">
+        <label>岗位方向（可多选）</label>
+        <div id="category-chips" class="chips"></div>
+      </div>
+      <div class="step-actions">
+        <button type="button" class="btn primary" id="btn-next1">下一步：填简历</button>
+      </div>
+    </section>
+
+    <!-- Step 2 -->
+    <section id="step2" class="step-section" hidden>
+      <h2>你的简历</h2>
+      <div class="mode-tabs">
+        <button type="button" class="mode-tab active" data-mode="guide">引导式填写（推荐）</button>
+        <button type="button" class="mode-tab" data-mode="paste">粘贴简历全文</button>
+      </div>
+
+      <div id="mode-guide">
+        <div class="basic-grid">
+          <label>姓名或代号 <input id="basic-name" placeholder="小陈（可匿名）"></label>
+          <label>工作年限 <input id="basic-years" placeholder="4"></label>
+          <label>最高学历 <input id="basic-degree" placeholder="本科"></label>
+          <label>学校 / 专业 <input id="basic-school" placeholder="某大学 会计学"></label>
+        </div>
+
+        <h3>经历梳理 <small class="hint-inline">按问题填，有数字的数字最有价值</small></h3>
+        <div id="exp-box"></div>
+        <button type="button" class="btn ghost sm" id="add-exp">+ 添加一段经历</button>
+
+        <h3>技能</h3>
+        <div id="skill-chips" class="chips"></div>
+
+        <h3>证书</h3>
+        <div id="cert-chips" class="chips"></div>
+
+        <div class="step-actions">
+          <button type="button" class="btn ghost" id="btn-back1">上一步</button>
+          <button type="button" class="btn primary" id="btn-generate">生成简历与推荐</button>
+        </div>
+      </div>
+
+      <div id="mode-paste" hidden>
+        <p class="hint">把现有简历整段贴进来（任意格式）。工具会抽关键词做匹配；想改写质量更高，建议切回「引导式填写」补数字。</p>
+        <textarea id="paste-text" rows="14" placeholder="工作经历：2019-2023 某公司 风控专员，负责供应商准入尽调……"></textarea>
+        <div class="step-actions">
+          <button type="button" class="btn ghost" id="btn-back1-paste">上一步</button>
+          <button type="button" class="btn primary" id="btn-generate-paste">生成简历与推荐</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Step 3 -->
+    <section id="step3" class="step-section" hidden>
+      <div class="result-tabs">
+        <button type="button" class="result-tab active" data-tab="resume">简历预览</button>
+        <button type="button" class="result-tab" data-tab="jobs">推荐公司</button>
+      </div>
+
+      <div id="tab-resume">
+        <div class="ai-bar" id="ai-bar-slot"></div>
+        <div id="rewrite-rows"></div>
+        <div class="resume-paper" id="resume-paper"></div>
+        <div class="resume-actions" id="resume-actions"></div>
+      </div>
+
+      <div id="tab-jobs" hidden>
+        <p id="cross-search" class="cross-search"></p>
+        <div id="company-list"></div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <p>官网投递入口数据库由社区维护，<a href="https://github.com/wuy97940-ship-it/resume2offer" target="_blank" rel="noopener">欢迎 PR 补充你熟悉的公司</a>。不抓取招聘平台数据，BOSS/猎聘按钮只是帮你带关键词跳转。</p>
+      <p>简历与 API Key 只存在你自己的浏览器（localStorage），没有任何服务器。</p>
+    </footer>
+  </main>
+
+  <!-- AI 设置弹窗 -->
+  <div id="settings-modal" class="modal-mask">
+    <div class="modal">
+      <div class="modal-head"><b>AI 设置（可选）</b>
+        <button type="button" class="link" id="settings-close">关闭</button>
+      </div>
+      <label>服务商
+        <select id="preset-select"></select>
+      </label>
+      <label>API 地址 <input id="llm-base" placeholder="https://api.deepseek.com"></label>
+      <label>模型 <input id="llm-model" placeholder="deepseek-chat"></label>
+      <label>API Key <input id="llm-key" type="password" placeholder="sk-...（只存本机浏览器）"></label>
+      <label>代理地址（可选，CORS 被拦时才填） <input id="llm-proxy" placeholder="https://xxx.workers.dev"></label>
+      <p class="hint">获取 Key：<a id="llm-keyurl" target="_blank" rel="noopener">官方控制台</a>。CORS 被拦？仓库 worker/ 目录有免费代理模板。</p>
+      <div class="modal-actions">
+        <button type="button" class="btn ghost" id="settings-close2">取消</button>
+        <button type="button" class="btn primary" id="settings-save">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="lib/deeplink.js?v=0.1.3"></script>
+  <script src="lib/matcher.js?v=0.1.3"></script>
+  <script src="lib/resume.js?v=0.1.3"></script>
+  <script src="lib/llm.js?v=0.1.3"></script>
+  <script src="app.js?v=0.1.3"></script>
+</body>
+</html>

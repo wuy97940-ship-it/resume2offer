@@ -1,0 +1,236 @@
+/* resume2offer - style.css
+ * 移动端优先；打印时只输出简历纸。
+ */
+:root {
+  --bg: #f5f7fa;
+  --card: #ffffff;
+  --ink: #1f2430;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --primary: #2b5cff;
+  --primary-ink: #ffffff;
+  --ok: #0a8754;
+  --warn: #b45309;
+  --radius: 12px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+/* ---------- 顶栏 ---------- */
+.topbar {
+  background: var(--card);
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+.topbar .wrap { display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; }
+.brand { display: flex; align-items: center; gap: 10px; }
+.logo {
+  width: 34px; height: 34px; border-radius: 10px;
+  background: var(--primary); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px; font-weight: 700;
+}
+.brand small { display: block; color: var(--muted); font-size: 12px; }
+.top-actions { display: flex; gap: 8px; }
+
+/* ---------- 按钮 ---------- */
+.btn {
+  display: inline-block;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 10px;
+  padding: 9px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+}
+.btn.primary { background: var(--primary); border-color: var(--primary); color: var(--primary-ink); font-weight: 600; }
+.btn.ghost { background: transparent; }
+.btn.sm { padding: 6px 12px; font-size: 13px; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.btn:hover { filter: brightness(0.97); }
+.link { background: none; border: none; color: var(--primary); cursor: pointer; padding: 0; font-size: 13px; }
+.link.danger { color: #dc2626; }
+
+/* ---------- 步骤条 ---------- */
+.steps-bar { display: flex; align-items: center; gap: 8px; margin: 16px 0; color: var(--muted); font-size: 14px; }
+.step-dot.on { color: var(--primary); font-weight: 600; }
+.step-dot:first-child.on ~ .step-dot { }
+.sep { color: var(--line); }
+
+/* ---------- 表单 ---------- */
+.step-section { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 16px; margin-bottom: 24px; }
+.step-section h2 { margin: 0 0 14px; font-size: 20px; }
+.field { margin-bottom: 16px; }
+.field > label { display: block; font-size: 14px; font-weight: 600; margin-bottom: 8px; }
+.hint { color: var(--muted); font-size: 12px; margin: 6px 0 0; }
+.hint-inline { color: var(--muted); font-size: 12px; font-weight: 400; }
+select, input, textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 9px 12px;
+  font-size: 14px;
+  font-family: inherit;
+  background: #fff;
+  color: var(--ink);
+}
+textarea { resize: vertical; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 13px;
+  cursor: pointer;
+  color: var(--ink);
+}
+.chip.active { background: var(--primary); border-color: var(--primary); color: #fff; font-weight: 600; }
+
+.step-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 18px; }
+
+/* ---------- Step 2 ---------- */
+.mode-tabs { display: flex; gap: 8px; margin-bottom: 16px; }
+.mode-tab {
+  flex: 1; padding: 9px; border: 1px solid var(--line); background: #fff;
+  border-radius: 10px; cursor: pointer; font-size: 14px; color: var(--muted);
+}
+.mode-tab.active { background: #eef3ff; border-color: var(--primary); color: var(--primary); font-weight: 600; }
+
+.basic-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+.basic-grid label { font-size: 13px; color: var(--muted); display: block; }
+.basic-grid input { margin-top: 4px; }
+
+#exp-box { display: flex; flex-direction: column; gap: 14px; margin-bottom: 10px; }
+.exp-card { border: 1px solid var(--line); border-radius: 12px; padding: 14px; background: #fafbfc; }
+.exp-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.exp-field { display: block; font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+.exp-field input, .exp-field textarea { margin-top: 4px; }
+
+.step-section h3 { font-size: 15px; margin: 18px 0 10px; }
+
+/* ---------- Step 3 ---------- */
+.result-tabs { display: flex; gap: 8px; margin-bottom: 14px; }
+.result-tab {
+  flex: 1; padding: 10px; border: 1px solid var(--line); background: #fff;
+  border-radius: 10px; cursor: pointer; font-size: 14px; color: var(--muted);
+}
+.result-tab.active { background: #eef3ff; border-color: var(--primary); color: var(--primary); font-weight: 600; }
+
+.ai-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  background: #f0fdf4; border: 1px solid #bbf7d0; color: var(--ok);
+  border-radius: 10px; padding: 8px 12px; font-size: 13px; margin-bottom: 10px;
+}
+.ai-bar.busy { opacity: 0.6; }
+
+.rewrite-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.rewrite-row .ok { color: var(--ok); font-size: 13px; }
+
+.resume-paper {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 28px 24px;
+  min-height: 400px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+.resume-paper h1 { font-size: 22px; margin: 0 0 4px; }
+.resume-head p { color: var(--muted); margin: 0 0 12px; font-size: 13px; }
+.resume-exp { margin-bottom: 16px; }
+.exp-title { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.exp-title h2 { font-size: 15px; margin: 0; }
+.exp-title span { color: var(--muted); font-size: 13px; }
+.resume-exp ul { margin: 8px 0 0; padding-left: 18px; }
+.resume-exp li { font-size: 13.5px; margin-bottom: 4px; }
+.rw-questions { margin-top: 8px; background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 8px 10px; }
+.rw-questions p { margin: 2px 0; font-size: 12px; color: #92400e; }
+.resume-skills h2 { font-size: 15px; margin: 0 0 6px; }
+.resume-skills p { font-size: 13.5px; color: var(--ink); margin: 0; }
+
+.resume-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+
+/* 公司卡片 */
+.cross-search { font-size: 13px; color: var(--muted); }
+.company-card {
+  border: 1px solid var(--line); border-radius: 12px; background: #fff;
+  padding: 14px; margin-bottom: 12px;
+}
+.cc-head { display: flex; align-items: center; gap: 8px; }
+.cc-head b { font-size: 15px; }
+.badge { font-size: 11px; border-radius: 999px; padding: 2px 8px; }
+.badge.ok { background: #ecfdf5; color: var(--ok); }
+.badge.warn { background: #fffbeb; color: var(--warn); }
+.cc-meta { color: var(--muted); font-size: 12.5px; margin: 4px 0 8px; }
+.cc-reasons { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.reason { font-size: 12px; background: #eef3ff; color: #1e40af; border-radius: 999px; padding: 2px 10px; }
+.cc-actions { display: flex; gap: 8px; }
+.cc-actions .btn { padding: 7px 14px; font-size: 13px; }
+.cc-tip { color: var(--muted); font-size: 12px; margin-top: 8px; }
+
+.empty { color: var(--muted); }
+
+/* ---------- 页脚 ---------- */
+.foot { color: var(--muted); font-size: 12px; padding: 8px 0 40px; }
+.foot a { color: var(--primary); }
+
+/* ---------- 弹窗 ---------- */
+.modal-mask {
+  position: fixed; inset: 0; background: rgba(15, 23, 42, 0.45);
+  display: none; align-items: center; justify-content: center; z-index: 50; padding: 16px;
+}
+.modal-mask.open { display: flex; }
+.modal {
+  background: #fff; border-radius: 14px; padding: 20px;
+  width: 100%; max-width: 420px;
+}
+.modal-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.modal label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+.modal label input, .modal label select { margin-top: 4px; }
+.modal-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 14px; }
+
+/* ---------- toast ---------- */
+.toast {
+  position: fixed; left: 50%; bottom: 32px; transform: translateX(-50%) translateY(20px);
+  background: rgba(15,23,42,0.9); color: #fff; font-size: 13px;
+  border-radius: 999px; padding: 8px 18px; opacity: 0; pointer-events: none;
+  transition: all 0.25s; z-index: 60;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+.load-error { background: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; border-radius: 10px; padding: 12px 14px; font-size: 13px; margin-top: 16px; }
+
+/* ---------- 打印：只输出简历纸 ---------- */
+@media print {
+  body.printing .topbar, body.printing .steps-bar, body.printing .foot,
+  body.printing .ai-bar, body.printing #rewrite-rows, body.printing .resume-actions,
+  body.printing .result-tabs, body.printing .toast, body.printing #settings-modal { display: none !important; }
+  body { background: #fff; }
+  .wrap { max-width: 100%; padding: 0; }
+  .step-section { border: none; padding: 0; }
+  .resume-paper { border: none; box-shadow: none; padding: 0; }
+}
+
+/* ---------- 移动端 ---------- */
+@media (max-width: 520px) {
+  .basic-grid { grid-template-columns: 1fr; }
+  .step-actions { flex-direction: column-reverse; }
+  .step-actions .btn { width: 100%; }
+  .cc-actions { flex-wrap: wrap; }
+}
