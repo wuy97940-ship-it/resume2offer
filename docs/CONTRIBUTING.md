@@ -13,8 +13,9 @@
 
 ```bash
 python tools/verify_urls.py   # 探测全部 careers_url 可达性，回填 verified
-python tools/gen_companies.py # 从问财名单合并生成（维护者用）
 ```
+
+（批量生成脚本为维护者内部工具，不随仓库分发。）
 
 ## 其他欢迎的 PR
 
